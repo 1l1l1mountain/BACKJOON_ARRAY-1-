@@ -8,10 +8,6 @@ int& function(int a) {
 
 void Level04() 
 {
-	int Num =1 ;
-	int b;
-		
-	function(Num)=b;
-	//b= 1;
+	
 	
 }
