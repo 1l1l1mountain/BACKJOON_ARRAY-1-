@@ -4,6 +4,6 @@ int main()
 {
 
 	Level04();
-
+	cout << "Hello";
 	return 0;
 }
