@@ -16,7 +16,7 @@ void Level05()
 		{
 
 			Max = Array[i];
-			Idx = i;
+			Idx = i+1;
 		}
 
 	}
