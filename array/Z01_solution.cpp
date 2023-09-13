@@ -1,4 +1,4 @@
-#include "io.h"
+﻿#include "io.h"
 void Level01()
 {
 
@@ -20,7 +20,7 @@ void Level01()
 		if (Compare == Array[i]) Count++;
 	}
 
-	cout << Count;
+	cout << Count; 
 
 }
 
